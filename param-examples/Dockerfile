@@ -1,6 +1,7 @@
 FROM node:latest
 
-RUN npm install express
+RUN npm install express \
+    body-parser
 
 WORKDIR /root
 
