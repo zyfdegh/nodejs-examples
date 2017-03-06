@@ -1,0 +1,11 @@
+{
+  "name": "client-examples",
+  "version": "1.0.0",
+  "description": "Examples to show how to use Node.js as HTTP client to call remote API.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangyf",
+  "license": "MIT"
+}
